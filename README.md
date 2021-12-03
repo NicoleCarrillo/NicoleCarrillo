@@ -12,7 +12,7 @@ Fav quotes:
 
 ## <img src="https://media.giphy.com/media/gF8H18UXyaC6SdeFrt/giphy.gif" width="40px" > Connect with me
 
-[![LinkedIn][linkedin-shield]][linkedin-url]->
+[![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 
 ## <img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif" width="40px" > Education
